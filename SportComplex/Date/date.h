@@ -1,7 +1,7 @@
 // Copyright 2025 Marina Usova
 
-#ifndef DATE_H_
-#define DATE_H_
+#ifndef DATE_CDATE_H_
+#define DATE_CDATE_H_
 
 class Date {
     int _year;
@@ -9,4 +9,4 @@ class Date {
     int _day;
 };
 
-#endif  // DATE_H_
+#endif  // DATE_CDATE_H_
